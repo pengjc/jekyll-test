@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 title: Super title
+date: '1976-09-17 23:46 -0700'
 ---
 ## A New Post
 
