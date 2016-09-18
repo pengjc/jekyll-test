@@ -1,7 +1,7 @@
 ---
 date: '1976-09-17 23:43 -0700'
 published: false
-title: this is a test
+title: new title
 ---
 ## A New Post
 
