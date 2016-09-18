@@ -1,7 +1,7 @@
 ---
 published: false
 title: Prosy Posty
-date: 'Jan 22, 1976'
+date: '1976-06-30 03:03:03 -0800'
 ---
 ## A New Post to prose
 
