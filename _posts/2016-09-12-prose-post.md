@@ -1,5 +1,6 @@
 ---
 published: false
+title: Prosy Posty
 ---
 ## A New Post to prose
 
