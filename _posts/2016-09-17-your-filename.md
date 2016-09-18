@@ -1,5 +1,6 @@
 ---
 published: false
+title: Super title
 ---
 ## A New Post
 
