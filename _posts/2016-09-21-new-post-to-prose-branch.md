@@ -1,6 +1,6 @@
 ---
 date: '2016-09-21 15:26 -0700'
-published: false
+published: true
 title: Master branch post!!!
 ---
 ## I should appear in the master branch!
