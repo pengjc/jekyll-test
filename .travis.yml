@@ -1,0 +1,9 @@
+sudo: false # use container-based infrastructure (faster, among other things)
+language: ruby
+cache: bundler
+rvm:
+  - 2.2.0
+script: bundle exec jekyll build
+after_success:
+  - test $TRAVIS_BRANCH == "blog" && S3_BUCKET=pengjc-jekyll-test-blog bundle exec s3_website push
+  - test $TRAVIS_BRANCH == "master" && S3_BUCKET=pengjc-jekyll-test-master bundle exec s3_website push
