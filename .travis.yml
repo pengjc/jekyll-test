@@ -3,6 +3,7 @@ language: ruby
 cache: bundler
 rvm:
   - 2.2.0
+before_install: gem install bundler -v 1.12.5
 script: bundle exec jekyll build
 after_success:
   - test $TRAVIS_BRANCH == "blog" && S3_BUCKET=pengjc-jekyll-test-blog bundle exec s3_website push
