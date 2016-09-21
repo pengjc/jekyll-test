@@ -1,8 +1,8 @@
 ---
 date: '2016-09-21 15:26 -0700'
 published: false
-title: New post to prose branch
+title: Master branch post!!!
 ---
-## A New Post to the prose branch
+## I should appear in the master branch!
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
