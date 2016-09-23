@@ -7,4 +7,6 @@ Let's create conflict, change in blog.
 
 ## A New Post
 
+Let's create more conflict.
+
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
